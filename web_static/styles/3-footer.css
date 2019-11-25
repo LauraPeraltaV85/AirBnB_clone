@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+footer {
+    background-color:#FFFFFF;
+    height:60px;
+    width:100%;
+    bottom:0px;
+    border-top:solid 1px #CCCCCC;
+    position:fixed;
+}
+
+p {
+    text-align:center;
+    vertical-align:middle;
+}
