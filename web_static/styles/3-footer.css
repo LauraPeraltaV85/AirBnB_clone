@@ -6,7 +6,9 @@ footer {
     width:100%;
     bottom:0px;
     border-top:solid 1px #CCCCCC;
-    position:fixed;
+    display: flex;
+    align-items:center;
+    justify-content:center;
 }
 
 p {
